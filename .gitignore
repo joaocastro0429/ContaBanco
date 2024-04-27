@@ -1,0 +1,23 @@
+# Arquivos Java compilados
+*.class
+
+# Bytecode
+*.jar
+
+# Arquivos do build do Maven
+/target/
+
+# Arquivos de configuração do VSCode
+.vscode/
+
+# Arquivos de configuração do Maven
+/.mvn/
+
+# Arquivos de configuração do Eclipse (se você estiver usando)
+.classpath
+.project
+.settings/
+
+# Outros arquivos ou pastas específicas a serem ignorados
+.bin/
+.lib/
